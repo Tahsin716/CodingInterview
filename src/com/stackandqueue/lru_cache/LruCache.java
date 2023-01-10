@@ -59,18 +59,19 @@ public class LruCache {
         prevNode.next = nextNode;
         nextNode.prev = prevNode;
     }
+    private class Node {
+        int key, value;
+        Node prev, next;
+
+        public Node() {
+
+        }
+
+        public Node(int key, int value) {
+            this.key = key;
+            this.value = value;
+        }
+    }
 }
 
-class Node {
-    int key, value;
-    Node prev, next;
 
-    public Node() {
-
-    }
-
-    public Node(int key, int value) {
-        this.key = key;
-        this.value = value;
-    }
-}

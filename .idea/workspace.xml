@@ -2,27 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingInterview.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/stackandqueue/carfleet/CarFleet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/stackandqueue/carfleet/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/stackandqueue/daily_temperatures/DailyTemperatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/stackandqueue/evaluate_revese_polish_notation/EvaluateReversePolishNotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/stackandqueue/largest_rectangle_histogram/LargestRectangleInHistogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/stackandqueue/lru_cache/LruCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/stackandqueue/min_stack/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/stackandqueue/next_greater_element_i/NextGreaterElement_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/stackandqueue/next_smaller_element/NextSmallerElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/stackandqueue/queue_using_stack/QueueUsingStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/stackandqueue/stack_using_array/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/stackandqueue/stack_using_array/StackUsingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/stackandqueue/stack_using_queue/StackUsingQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/stackandqueue/valid_parentheses/ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stackandqueue/lfu_cache/LFUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stackandqueue/sliding_window_maximum/SlidingWindowMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stackandqueue/stock_span/StockSpan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackandqueue/lru_cache/LruCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackandqueue/lru_cache/LruCache.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
