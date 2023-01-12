@@ -8,6 +8,7 @@ public class DailyTemperatures {
         Stack<Integer> stack = new Stack<>();
 
         for (int i = temperatures.length - 1; i >= 0; i--) {
+            // Monotonic stack
             while (!stack.isEmpty() && temperatures[stack.peek()] <= temperatures[i]) stack.pop();
 
             ans[i] = !stack.isEmpty() ? stack.peek() - i : 0;

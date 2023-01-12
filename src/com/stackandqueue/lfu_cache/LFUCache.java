@@ -55,6 +55,8 @@ public class LFUCache {
         DoublyLinkedList doublyLinkedList = countMap.get(node.count);
         doublyLinkedList.remove(node);
 
+        // The element we removed happened to be the least recently used(LRU) element of the minFrequency
+        // No more element exists of the minFrequency, so we increment minFrequency
         if (doublyLinkedList.size() == 0 && minFrequency == node.count) minFrequency++;
 
         node.incrementCount();

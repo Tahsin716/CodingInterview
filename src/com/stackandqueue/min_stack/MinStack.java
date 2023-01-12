@@ -31,11 +31,13 @@ public class MinStack {
     public int getMin() {
         return stack.peek().getValue();
     }
+
+    @Getter
+    @AllArgsConstructor
+    private static class Pair {
+        private int key;
+        private int value;
+    }
 }
 
-@Getter
-@AllArgsConstructor
-class Pair {
-    private int key;
-    private int value;
-}
+

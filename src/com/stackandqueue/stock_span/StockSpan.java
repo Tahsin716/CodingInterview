@@ -14,6 +14,7 @@ public class StockSpan {
     public int next(int price) {
         currentIndex += 1;
 
+        // Monotonic stack, stock prices lower than current price are not necessary so remove them
         while (!stack.isEmpty() && stack.peek().price <= price)
             stack.pop();
 
