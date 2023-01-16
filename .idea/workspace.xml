@@ -1,31 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="comment added for stack codes">
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/sliding_window/find_all_anagrams_in_a_string/FindAllAnagramsInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/sliding_window/longest_repeating_character_replacement/LongestCharacterReplacement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/sliding_window/longest_substring_without_repeating_characters/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/sliding_window/max_consecutive_ones/MaximumConsecutiveOnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/sliding_window/max_consecutive_ones_iii/MaximumConsecutiveOnesIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/sliding_window/maximum_average_subarray_i/MaximumAverageSubarrayI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/sliding_window/minimum_window_substring/MinimumWindowSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/sliding_window/number_of_subarrays_of_size_k_and_average_greater_than_or_equal_to_threshold/NumberOfSubarraysOfSizeK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/sliding_window/permutations_in_string/PermutationsInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/sliding_window/substrings_of_size_three_with_distinct_characters/SubstringOfSizeThreeWithDistinctCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarysearch/binary_search/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarysearch/capacity_to_ship_package_within_d_days/CapacityToShipPackageWithinDDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarysearch/ceil_of_an_element/CeilOfAnElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarysearch/find_minimum_in_rotated_sorted_array/FindMinimumInRotatedSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarysearch/first_occurrence_of_an_element/FirstOccurrenceOfElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarysearch/floor_of_an_element/FloorOfAnElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarysearch/koko_eating_bananas/KokoEatingBananas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarysearch/last_occurrence_of_an_element/LastOccurrenceOfElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarysearch/peak_index_in_a_mountain_array/PeakIndexInAMountainArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarysearch/search_in_a_2d_matrix/SearchInA2DMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarysearch/search_in_a_2d_matrix_ii/SearchInA2DMatrixII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarysearch/search_in_rotated_sorted_array/SearchInRotatedSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarysearch/single_element_in_sorted_array/SingleElementInSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarysearch/time_based_key_value_store/TimeBaseKeyValueStore.java" afterDir="false" />
+    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="binary search problems done">
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/container_with_most_water/ContainerWithMostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/four_sum/FourSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/move_zeroes/MoveZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/remove_duplicates_from_sorted_array/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/reverse_string/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/sort_colors/SortColors_2Pass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/squares_of_a_sorted_array/SquaresOfASortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/three_sum/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/trapping_rain_water/TrappingRainWater_DP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/trapping_rain_water/TrappingRainWater_TwoPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/two_sum_ii_input_array_is_sorted/TwoSumII_InputArrayIsSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/valid_palindrome/ValidPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673547078836</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="binary search problems done">
+      <created>1673673995914</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673673995914</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +101,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="stack neetcode and striver completed" />
     <MESSAGE value="comment added for stack codes" />
-    <option name="LAST_COMMIT_MESSAGE" value="comment added for stack codes" />
+    <MESSAGE value="binary search problems done" />
+    <option name="LAST_COMMIT_MESSAGE" value="binary search problems done" />
   </component>
 </project>
