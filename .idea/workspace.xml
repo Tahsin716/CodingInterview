@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="binary search problems done">
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/container_with_most_water/ContainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/four_sum/FourSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/move_zeroes/MoveZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/remove_duplicates_from_sorted_array/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/reverse_string/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/sort_colors/SortColors_2Pass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/squares_of_a_sorted_array/SquaresOfASortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/three_sum/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/trapping_rain_water/TrappingRainWater_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/trapping_rain_water/TrappingRainWater_TwoPointer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/two_sum_ii_input_array_is_sorted/TwoSumII_InputArrayIsSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/valid_palindrome/ValidPalindrome.java" afterDir="false" />
+    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="two pointer problems done">
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/cyclic_sort/find_all_duplicates_in_an_array/FindAllDuplicatesInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/cyclic_sort/find_all_numbers_disappeared_in_an_array/FindAllNumbersDisappearedInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/cyclic_sort/find_the_duplicate_number/FindTheDuplicateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/cyclic_sort/first_missing_positive_number/FirstMissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/cyclic_sort/kth_missing_positive_number/KthMissingPositiveNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/cyclic_sort/missing_number/MissingNumber_Summation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/cyclic_sort/missing_number/MissingNumber_XOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/cyclic_sort/set_mismatch/SetMismatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673673995914</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="two pointer problems done">
+      <created>1673847280687</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673847280687</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +105,7 @@
     <MESSAGE value="stack neetcode and striver completed" />
     <MESSAGE value="comment added for stack codes" />
     <MESSAGE value="binary search problems done" />
-    <option name="LAST_COMMIT_MESSAGE" value="binary search problems done" />
+    <MESSAGE value="two pointer problems done" />
+    <option name="LAST_COMMIT_MESSAGE" value="two pointer problems done" />
   </component>
 </project>
