@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="merge interval problems done">
-      <change afterPath="$PROJECT_DIR$/src/com/common/datastructure/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/basic_linkedlist/add_two_numbers/AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/basic_linkedlist/copy_list_with_random_pointer/CopyListWithRandomPointer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/basic_linkedlist/merge_k_sorted_list/MergeKSortedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/basic_linkedlist/merge_two_sorted_lists/MergeTwoSortedLists_Iterative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/basic_linkedlist/reverse_linkedlist/ReverseLinkedList_Iterative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/basic_linkedlist/reverse_linkedlist/ReverseLinkedList_Recursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/basic_linkedlist/reverse_linkedlist_ii/ReverseLinkedList_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/basic_linkedlist/reverse_nodes_in_k_groups/ReverseNodeInKGroups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/basic_linkedlist/rotate_list/RotateList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/fast_and_slow_pointers/find_the_duplicate_number/FindTheDuplicateNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/fast_and_slow_pointers/happy_number/HappyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/fast_and_slow_pointers/linkedlist_cycle/LinkedListCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/fast_and_slow_pointers/linkedlist_cycle_ii/LinkedListCycle_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/fast_and_slow_pointers/middle_of_the_linkedlist/MiddleOfTheLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/fast_and_slow_pointers/remove_nth_node_from_end_of_list/RemoveNthNodeFromEndOfList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/fast_and_slow_pointers/reorder_list/ReorderList.java" afterDir="false" />
+    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="linked list and fast&amp;slow pointer problems done">
+      <change afterPath="$PROJECT_DIR$/src/com/common/datastructure/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/balanced_binary_tree/BalancedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_inorder_traversal/BinaryTreeInorderTraversal_Iterative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_inorder_traversal/BinaryTreeInorderTraversal_Recursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_level_order_traversal/BinaryTreeLevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_maximum_path_sum/BinaryTreeMaximumPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_postorder_traversal/BinaryTreePostorderTraversal_Iterative_2Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_postorder_traversal/BinaryTreePostorderTraversal_Iterative_ReversePreorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_postorder_traversal/BinaryTreePostorderTraversal_Recursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_preorder_traversal/BinaryTreePreorderTraversal_Iterative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_preorder_traversal/BinaryTreePreorderTraversal_Recursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_zigzag_level_order_traversal/BinaryTreeZigzagLevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/boundary_of_binary_tree/BoundaryOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/diameter_of_binary_tree/DiameterOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/maximum_depth_of_binary_tree/MaximumDepthOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/same_tree/SameTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/symmetric_tree/SymmetricTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674418283185</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="linked list and fast&amp;slow pointer problems done">
+      <created>1674712408024</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674712408024</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +146,7 @@
     <MESSAGE value="cyclic sort problems done" />
     <MESSAGE value="top k elements problems done" />
     <MESSAGE value="merge interval problems done" />
-    <option name="LAST_COMMIT_MESSAGE" value="merge interval problems done" />
+    <MESSAGE value="linked list and fast&amp;slow pointer problems done" />
+    <option name="LAST_COMMIT_MESSAGE" value="linked list and fast&amp;slow pointer problems done" />
   </component>
 </project>
