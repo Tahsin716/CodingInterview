@@ -1,24 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="linked list and fast&amp;slow pointer problems done">
-      <change afterPath="$PROJECT_DIR$/src/com/common/datastructure/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/balanced_binary_tree/BalancedBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_inorder_traversal/BinaryTreeInorderTraversal_Iterative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_inorder_traversal/BinaryTreeInorderTraversal_Recursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_level_order_traversal/BinaryTreeLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_maximum_path_sum/BinaryTreeMaximumPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_postorder_traversal/BinaryTreePostorderTraversal_Iterative_2Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_postorder_traversal/BinaryTreePostorderTraversal_Iterative_ReversePreorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_postorder_traversal/BinaryTreePostorderTraversal_Recursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_preorder_traversal/BinaryTreePreorderTraversal_Iterative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_preorder_traversal/BinaryTreePreorderTraversal_Recursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_zigzag_level_order_traversal/BinaryTreeZigzagLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/boundary_of_binary_tree/BoundaryOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/diameter_of_binary_tree/DiameterOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/maximum_depth_of_binary_tree/MaximumDepthOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/same_tree/SameTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/symmetric_tree/SymmetricTree.java" afterDir="false" />
+    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="binary tree problems ongoing">
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_left_side_view/BinaryTreeLeftSideView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_right_side_view/BinaryTreeRightSideView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/bottom_view_of_binary_tree/BottomViewOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/children_sum_property/ChildrenSumProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/construct_binary_tree_from_inorder_and_postorder_traversal/ConstructBinaryTreeFromInorderAndPostorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/construct_binary_tree_from_inorder_and_preorder_traversal/ConstructBinaryTreeFromInorderAndPreorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/invert_binary_tree/InvertBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/lowest_common_ancestor_of_a_binary_tree/LowestCommonAncestorOfABinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/maximum_width_of_binary_tree/MaximumWidthOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/path_in_a_tree/PathInATree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/serialize_and_deserialize_binary_tree/SerializeAndDeserializeBinaryTree_BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/serialize_and_deserialize_binary_tree/SerializeAndDeserializeBinaryTree_DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/top_view_of_binary_tree/TopViewOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/vertical_order_traversal_of_a_binary_tree/VerticalOrderTraversalOfABinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674712408024</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="binary tree problems ongoing">
+      <created>1675146727945</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675146727945</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +151,7 @@
     <MESSAGE value="top k elements problems done" />
     <MESSAGE value="merge interval problems done" />
     <MESSAGE value="linked list and fast&amp;slow pointer problems done" />
-    <option name="LAST_COMMIT_MESSAGE" value="linked list and fast&amp;slow pointer problems done" />
+    <MESSAGE value="binary tree problems ongoing" />
+    <option name="LAST_COMMIT_MESSAGE" value="binary tree problems ongoing" />
   </component>
 </project>
