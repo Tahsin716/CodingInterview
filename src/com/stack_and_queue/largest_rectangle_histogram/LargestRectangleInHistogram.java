@@ -1,4 +1,4 @@
-package com.stackandqueue.largest_rectangle_histogram;
+package com.stack_and_queue.largest_rectangle_histogram;
 
 import java.util.Stack;
 

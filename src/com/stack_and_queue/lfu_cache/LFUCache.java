@@ -1,4 +1,4 @@
-package com.stackandqueue.lfu_cache;
+package com.stack_and_queue.lfu_cache;
 
 import java.util.HashMap;
 import java.util.Map;

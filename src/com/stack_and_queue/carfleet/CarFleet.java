@@ -1,4 +1,4 @@
-package com.stackandqueue.carfleet;
+package com.stack_and_queue.carfleet;
 
 import java.util.Arrays;
 import java.util.Comparator;

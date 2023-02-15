@@ -1,4 +1,4 @@
-package com.stackandqueue.sliding_window_maximum;
+package com.stack_and_queue.sliding_window_maximum;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;

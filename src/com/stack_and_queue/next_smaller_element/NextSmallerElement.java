@@ -1,4 +1,4 @@
-package com.stackandqueue.next_smaller_element;
+package com.stack_and_queue.next_smaller_element;
 
 import java.util.Stack;
 

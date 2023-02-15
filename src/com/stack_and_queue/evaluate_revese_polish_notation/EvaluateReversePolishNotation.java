@@ -1,4 +1,4 @@
-package com.stackandqueue.evaluate_revese_polish_notation;
+package com.stack_and_queue.evaluate_revese_polish_notation;
 
 import java.util.Stack;
 

@@ -1,4 +1,4 @@
-package com.stackandqueue.valid_parentheses;
+package com.stack_and_queue.valid_parentheses;
 
 import java.util.Stack;
 

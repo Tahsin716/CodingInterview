@@ -1,4 +1,4 @@
-package com.stackandqueue.lru_cache;
+package com.stack_and_queue.lru_cache;
 
 import java.util.HashMap;
 

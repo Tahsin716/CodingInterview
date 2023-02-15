@@ -1,4 +1,4 @@
-package com.stackandqueue.stack_using_array;
+package com.stack_and_queue.stack_using_array;
 
 public class StackUsingArray {
     private final int size;

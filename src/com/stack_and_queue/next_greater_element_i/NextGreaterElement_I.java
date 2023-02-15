@@ -1,4 +1,4 @@
-package com.stackandqueue.next_greater_element_i;
+package com.stack_and_queue.next_greater_element_i;
 
 import java.util.HashMap;
 import java.util.Stack;

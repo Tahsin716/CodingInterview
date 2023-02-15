@@ -1,4 +1,4 @@
-package com.stackandqueue.stock_span;
+package com.stack_and_queue.stock_span;
 
 import java.util.Stack;
 

@@ -1,4 +1,4 @@
-package com.stackandqueue.min_stack;
+package com.stack_and_queue.min_stack;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

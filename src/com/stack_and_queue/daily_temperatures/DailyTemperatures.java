@@ -1,4 +1,4 @@
-package com.stackandqueue.daily_temperatures;
+package com.stack_and_queue.daily_temperatures;
 
 import java.util.Stack;
 

@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="binary tree problems solved">
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_search_tree/bst_iterator/BinarySearchTreeIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_search_tree/construct_bst_from_preorder_traversal/ConstructBinarySearchTreeFromPreorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_search_tree/delete_node_in_a_bst/DeleteNodInABinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_search_tree/inorder_predecessor_in_bst/InorderPredecessorInBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_search_tree/inorder_successor_in_bst/InorderSuccessorInBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_search_tree/insert_into_a_bst/InsertIntoABinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_search_tree/kth_smallest_element_in_a_bst/KthSmallestElementInABinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_search_tree/largest_bst_in_a_bt/LargestBinarySearchTreeInABinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_search_tree/lowest_common_ancestor_of_a_bst/LowestCommonAncestorOfABinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_search_tree/recover_bst/RecoverBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_search_tree/search_in_a_bst/SearchInABinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_search_tree/validate_bst/ValidateBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/count_good_nodes_in_binary_tree/CountGoodNodesInBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="binary tree and bst problems solved" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676010644863</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="binary tree and bst problems solved">
+      <created>1676469714804</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676469714804</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +151,7 @@
     <MESSAGE value="linked list and fast&amp;slow pointer problems done" />
     <MESSAGE value="binary tree problems ongoing" />
     <MESSAGE value="binary tree problems solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="binary tree problems solved" />
+    <MESSAGE value="binary tree and bst problems solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="binary tree and bst problems solved" />
   </component>
 </project>
