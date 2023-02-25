@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="binary tree and bst problems solved" />
+    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="stack and queue package renamed">
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/islands/count_sub_islands/CountSubIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/islands/find_all_groups_of_farmland/FindAllGroupsOfFarmland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/islands/flood_fill/FloodFill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/islands/island_perimeter/IslandPerimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/islands/max_area_of_island/MaxAreaOfIsland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/islands/minesweeper/Minesweeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/islands/number_of_closed_islands/NumberOfClosedIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/islands/number_of_islands/NumberOfIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/islands/surrounded_regions/SurroundedRegions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/topological_sort/alien_dictionary/AlienDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/topological_sort/all_ancestors_of_a_node_in_a_directed_acyclic_graph/AllAncestorsOfANodeInADirectedAcyclicGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/topological_sort/course_schedule/CourseSchedule_BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/topological_sort/course_schedule/CourseSchedule_DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/topological_sort/course_schedule_ii/CourseSchedule_II_BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/topological_sort/course_schedule_ii/CourseSchedule_II_DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/topological_sort/minimum_height_trees/MinimumHeightTrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +55,8 @@
     &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -126,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676469714804</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="stack and queue package renamed">
+      <created>1676470013944</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676470013944</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +178,7 @@
     <MESSAGE value="binary tree problems ongoing" />
     <MESSAGE value="binary tree problems solved" />
     <MESSAGE value="binary tree and bst problems solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="binary tree and bst problems solved" />
+    <MESSAGE value="stack and queue package renamed" />
+    <option name="LAST_COMMIT_MESSAGE" value="stack and queue package renamed" />
   </component>
 </project>
