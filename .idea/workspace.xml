@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="islands problems and topological sort problems solved">
-      <change afterPath="$PROJECT_DIR$/src/com/common/datastructure/UnionFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/graphs/union_find/graph_valid_tree/GraphValidTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/graphs/union_find/number_of_operations_to_make_network_connected/NumberOfOperationsToMakeNetworkConnected.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/graphs/union_find/number_of_operations_to_make_network_connected/NumberOfOperationsToMakeNetworkConnected_DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/graphs/union_find/number_of_provinces/NumberOfProvinces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/graphs/union_find/number_of_provinces/NumberOfProvinces_DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/graphs/union_find/redundant_connection/RedundantConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/graphs/union_find/remove_max_number_of_edges_to_keep_graph_fully_traversable/RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/graphs/union_find/similar_string_groups/SimilarStringGroups.java" afterDir="false" />
+    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="union find problems solved">
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/bfs_for_shortest_path/as_far_from_land_as_possible/AsFarFromLandAsPossible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/bfs_for_shortest_path/rotting_oranges/RottingOranges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/bfs_for_shortest_path/shortest_path_in_binary_matrix/ShortestPathInBinaryMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/bfs_for_shortest_path/zero_one_matrix/ZeroOneMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -152,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677346068358</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="union find problems solved">
+      <created>1677611037341</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1677611037341</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +182,7 @@
     <MESSAGE value="binary tree and bst problems solved" />
     <MESSAGE value="stack and queue package renamed" />
     <MESSAGE value="islands problems and topological sort problems solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="islands problems and topological sort problems solved" />
+    <MESSAGE value="union find problems solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="union find problems solved" />
   </component>
 </project>
