@@ -1,4 +1,4 @@
-package com.graphs.islands.surrounded_regions;
+package com.graphs.dfs_from_boundary.surrounded_regions;
 
 public class SurroundedRegions {
     public void solve(char[][] board) {

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="union find problems solved">
-      <change afterPath="$PROJECT_DIR$/src/com/graphs/bfs_for_shortest_path/as_far_from_land_as_possible/AsFarFromLandAsPossible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/graphs/bfs_for_shortest_path/rotting_oranges/RottingOranges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/graphs/bfs_for_shortest_path/shortest_path_in_binary_matrix/ShortestPathInBinaryMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/graphs/bfs_for_shortest_path/zero_one_matrix/ZeroOneMatrix.java" afterDir="false" />
+    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="bfs: shortest path problems solved">
+      <change afterPath="$PROJECT_DIR$/src/com/common/algorithms/BellmanFord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/common/algorithms/Dijkstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/common/algorithms/FloydWarshall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/cycle_find/find_eventual_safe_states/FindEventualSafeStates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/dfs_from_boundary/number_of_enclaves/NumberOfEnclaves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/graph_coloring/is_graph_bipartite/IsGraphBipartite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/graph_coloring/possible_bipartition/PossibleBipartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/hash_dfs/employee_importance/EmployeeImportance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/hash_dfs/find_the_town_judge/FindTheTownJudge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/shortest_path/cheapest_flight_within_k_stops/CheapestFlightsWithinKStops_BellmanFord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/shortest_path/cheapest_flight_within_k_stops/CheapestFlightsWithinKStops_Dijkstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/shortest_path/find_the_city_with_the_smallest_number_of_neighbours_at_a_threshold_distance/FindTheCity_Dijkstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/shortest_path/find_the_city_with_the_smallest_number_of_neighbours_at_a_threshold_distance/FindTheCity_FloydWarshall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/shortest_path/network_delay_time/NetworkDelayTime_BellmanFord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/shortest_path/network_delay_time/NetworkDelayTime_Dijkstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/shortest_path/network_delay_time/NetworkDelayTime_FloydWarshall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/shortest_time/time_needed_to_inform_all_employees/TimeNeededToInformAllEmployees.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/graphs/islands/surrounded_regions/SurroundedRegions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/graphs/dfs_from_boundary/surrounded_regions/SurroundedRegions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677611037341</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="bfs: shortest path problems solved">
+      <created>1677829989221</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1677829989221</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +204,7 @@
     <MESSAGE value="stack and queue package renamed" />
     <MESSAGE value="islands problems and topological sort problems solved" />
     <MESSAGE value="union find problems solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="union find problems solved" />
+    <MESSAGE value="bfs: shortest path problems solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="bfs: shortest path problems solved" />
   </component>
 </project>
