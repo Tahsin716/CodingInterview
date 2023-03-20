@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="all graph patterns list problems solved">
-      <change afterPath="$PROJECT_DIR$/src/com/graphs/dfs_from_boundary/pacific_atlantic_water_flow/PacificAtlanticWaterFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/graphs/hash_dfs/clone_graph/CloneGraph.java" afterDir="false" />
+    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="neetcode graph problems solved">
+      <change afterPath="$PROJECT_DIR$/src/com/backtracking/combination_sum/CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/backtracking/combination_sum_ii/CombinationSum_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/backtracking/combinations/Combinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/backtracking/generate_parenthesis/GenerateParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/backtracking/letter_combinations_of_a_phone_number/LetterCombinationsOfAPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/backtracking/n_queens/N_Queens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/backtracking/n_queens_ii/NQueens_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/backtracking/palindrome_partitioning/PalindromePartitioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/backtracking/permutations/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/backtracking/permutations_ii/Permutations_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/backtracking/subsets/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/backtracking/subsets_ii/Subsets_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/backtracking/sudoku_solver/SudokuSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/heaps/basic_priority_queue/last_stone_weight/LastStoneWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/heaps/k_way_merge/find_k_pairs_with_smallest_sums/FindKPairsWithSmallestSums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/heaps/k_way_merge/kth_smallest_element_in_a_sorted_matrix/KthSmallestElementInASortedMatrix_BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/heaps/k_way_merge/kth_smallest_element_in_a_sorted_matrix/KthSmallestElementInASortedMatrix_MaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/heaps/k_way_merge/kth_smallest_element_in_a_sorted_matrix/KthSmallestElementInASortedMatrix_MinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/heaps/k_way_merge/merge_k_sorted_lists/Merge_K_Sorted_Lists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/heaps/two_heaps/find_median_from_data_stream/FindMedianFromDataStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/heaps/two_heaps/sliding_window_median/SlidingWindowMedian.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678477539684</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="neetcode graph problems solved">
+      <created>1678545666259</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1678545666259</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +223,7 @@
     <MESSAGE value="union find problems solved" />
     <MESSAGE value="bfs: shortest path problems solved" />
     <MESSAGE value="all graph patterns list problems solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="all graph patterns list problems solved" />
+    <MESSAGE value="neetcode graph problems solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="neetcode graph problems solved" />
   </component>
 </project>
