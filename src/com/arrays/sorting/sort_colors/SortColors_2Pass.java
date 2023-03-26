@@ -1,4 +1,4 @@
-package com.arrays.two_pointers.sort_colors;
+package com.arrays.sorting.sort_colors;
 
 public class SortColors_2Pass {
     public void sortColors(int[] nums) {

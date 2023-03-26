@@ -1,12 +1,11 @@
 package com.stack_and_queue.min_stack;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
+import com.common.datastructure.Pair;
 
 import java.util.Stack;
 
 public class MinStack {
-    Stack<Pair> stack;
+    Stack<Pair<Integer, Integer>> stack;
 
     public MinStack() {
         stack = new Stack<>();
@@ -32,12 +31,6 @@ public class MinStack {
         return stack.peek().getValue();
     }
 
-    @Getter
-    @AllArgsConstructor
-    private static class Pair {
-        private int key;
-        private int value;
-    }
 }
 
 
