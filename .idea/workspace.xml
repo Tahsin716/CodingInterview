@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="backtracking and heaps problems solved">
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/basic_array/best_time_to_buy_and_sell_stock/BestTimeToBuyAndSellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/basic_array/majority_element/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/basic_array/pascals_triangle/PascalsTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/hash_table/two_sum/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/prefix_sum/find_pivot_index/FindPivotIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/prefix_sum/running_sum_of_1D_array/RunningSumOf1DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/two_pointers/merge_sorted_array/MergeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dynamic_programming/fibonacci_number/FibonacciNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/greedy/best_time_to_buy_and_sell_stock_ii/BestTimeToBuyAndSellStock_II.java" afterDir="false" />
+    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="Fraz string easy list solved">
+      <change afterPath="$PROJECT_DIR$/src/com/strings/basic_calculator_ii/BasicCalculator_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/strings/integer_to_roman/IntegerToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/strings/longest_palindromic_substring/LongestPalindromicSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/strings/longest_palindromic_substring/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/strings/minimum_remove_to_make_valid_parentheses/MinimumRemoveToMakeValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/strings/simplify_path/SimplifyPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/strings/valid_palindrome_ii/ValidPalindrome_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/strings/zigzag_conversion/ZigzagConversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -187,7 +186,35 @@
       <option name="project" value="LOCAL" />
       <updated>1679305293418</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Fraz Arrays easy list solved">
+      <created>1679395524856</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1679395524856</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Fraz Arrays medium list solved">
+      <created>1679858565328</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1679858565329</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Fraz Arrays hard list solved">
+      <created>1679858597969</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1679858597969</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Fraz string easy list solved">
+      <created>1679858657518</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1679858657518</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,6 +248,10 @@
     <MESSAGE value="neetcode graph problems solved" />
     <MESSAGE value="bactracking and heaps problems solved" />
     <MESSAGE value="backtracking and heaps problems solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="backtracking and heaps problems solved" />
+    <MESSAGE value="Fraz Arrays easy list solved" />
+    <MESSAGE value="Fraz Arrays medium list solved" />
+    <MESSAGE value="Fraz Arrays hard list solved" />
+    <MESSAGE value="Fraz string easy list solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fraz string easy list solved" />
   </component>
 </project>
