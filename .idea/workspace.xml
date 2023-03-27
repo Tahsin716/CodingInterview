@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="Fraz string easy list solved">
-      <change afterPath="$PROJECT_DIR$/src/com/strings/basic_calculator_ii/BasicCalculator_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/strings/integer_to_roman/IntegerToRoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/strings/longest_palindromic_substring/LongestPalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/strings/longest_palindromic_substring/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/strings/minimum_remove_to_make_valid_parentheses/MinimumRemoveToMakeValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/strings/simplify_path/SimplifyPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/strings/valid_palindrome_ii/ValidPalindrome_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/strings/zigzag_conversion/ZigzagConversion.java" afterDir="false" />
+    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="Fraz string medium list solved">
+      <change afterPath="$PROJECT_DIR$/src/com/maths/add_binary/AddBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/maths/excel_sheet_column_number/ExcelSheetColumnNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/maths/excel_sheet_column_number/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/maths/excel_sheet_column_title/ExcelSheetColumnTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/maths/happy_number/HappyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/maths/maximum_product_of_three_numbers/MaximumProductOfThreeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/maths/minimum_moves_to_equal_array_elements/MinimumMovesToEqualArrayElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/maths/missing_number/MissingNumber_CumulativeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/maths/missing_number/MissingNumber_XOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/maths/palindrome_number/PalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/maths/power_of_two/PowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/maths/power_of_two/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/maths/reverse_integer/ReverseInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -214,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679858657518</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Fraz string medium list solved">
+      <created>1679859073510</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1679859073510</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,6 +264,7 @@
     <MESSAGE value="Fraz Arrays medium list solved" />
     <MESSAGE value="Fraz Arrays hard list solved" />
     <MESSAGE value="Fraz string easy list solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fraz string easy list solved" />
+    <MESSAGE value="Fraz string medium list solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fraz string medium list solved" />
   </component>
 </project>
