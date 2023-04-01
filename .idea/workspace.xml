@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="Fraz maths easy list solved">
-      <change afterPath="$PROJECT_DIR$/src/com/greedy/gas_station/GasStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/greedy/maximum_number_of_events_that_can_be_attended/MaximumNumberOfEventsThatCanBeAttended_PriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/greedy/maximum_number_of_events_that_can_be_attended/MaximumNumberOfEventsThatCanBeAttended_TreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/greedy/maximum_number_of_events_that_can_be_attended/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/greedy/minimum_deletions_to_make_character_frequencies_unique/MinimumDeletionsToMakeCharacterFrequenciesUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/greedy/minimum_time_to_make_rope_colorful/MinimumTimeToMakRopeColorful.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/greedy/remove_k_digits/RemoveKDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/greedy/restore_the_array_from_adjacent_pairs/RestoreTheArrayFromAdjacentPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/greedy/task_scheduler/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/greedy/task_scheduler/TaskScheduler.java" afterDir="false" />
+    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="Fraz greedy medium list solved">
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/islands/shortest_bridge/ShortestBridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stack_and_queue/decode_string/DecodeString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -230,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679951687887</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Fraz greedy medium list solved">
+      <created>1680290494194</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1680290494194</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,7 +244,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="stack neetcode and striver completed" />
     <MESSAGE value="comment added for stack codes" />
     <MESSAGE value="binary search problems done" />
     <MESSAGE value="two pointer problems done" />
@@ -270,6 +268,7 @@
     <MESSAGE value="Fraz string easy list solved" />
     <MESSAGE value="Fraz string medium list solved" />
     <MESSAGE value="Fraz maths easy list solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fraz maths easy list solved" />
+    <MESSAGE value="Fraz greedy medium list solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fraz greedy medium list solved" />
   </component>
 </project>
