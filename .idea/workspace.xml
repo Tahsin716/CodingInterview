@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="Fraz greedy medium list solved">
-      <change afterPath="$PROJECT_DIR$/src/com/graphs/islands/shortest_bridge/ShortestBridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/stack_and_queue/decode_string/DecodeString.java" afterDir="false" />
+    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="Fraz dfs medium list solved">
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_search_tree/convert_sorted_array_to_bst/ConvertSortedArrayToBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_search_tree/minimum_absolute_difference_in_bst/MinimumAbsoluteDifferenceInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_search_tree/range_sum_of_bst/RangeOfSumOfBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/binary_tree_paths/BinaryTreePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/merge_two_binary_trees/MergeTwoBinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/path_sum/PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/subtree_of_another_tree/SubtreeOfAnotherTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/trees/binary_tree/sum_of_left_leaves/SumOfLeftLeaves.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -229,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680290494194</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Fraz dfs medium list solved">
+      <created>1680383186935</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1680383186935</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -244,7 +257,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="comment added for stack codes" />
     <MESSAGE value="binary search problems done" />
     <MESSAGE value="two pointer problems done" />
     <MESSAGE value="cyclic sort problems done" />
@@ -269,6 +281,7 @@
     <MESSAGE value="Fraz string medium list solved" />
     <MESSAGE value="Fraz maths easy list solved" />
     <MESSAGE value="Fraz greedy medium list solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fraz greedy medium list solved" />
+    <MESSAGE value="Fraz dfs medium list solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fraz dfs medium list solved" />
   </component>
 </project>
