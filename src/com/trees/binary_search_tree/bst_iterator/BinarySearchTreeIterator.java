@@ -20,7 +20,7 @@ public class BinarySearchTreeIterator {
     }
 
     public boolean hasNext() {
-        return stack.isEmpty() ? false : true;
+        return !stack.isEmpty();
     }
 
     private void insert(TreeNode node) {

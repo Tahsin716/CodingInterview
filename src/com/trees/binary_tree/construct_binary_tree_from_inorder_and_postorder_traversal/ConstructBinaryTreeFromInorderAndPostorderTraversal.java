@@ -15,8 +15,8 @@ public class ConstructBinaryTreeFromInorderAndPostorderTraversal {
         return buildTreeHelper(postorder, map, postorder.length - 1 , 0, inorder.length - 1);
     }
 
-    public TreeNode buildTreeHelper(int[] postorder, HashMap<Integer, Integer> map, int postStart, int inStart, int inEnd) {
-        if (postStart > postorder.length - 1 || inStart > inEnd)
+    public TreeNode buildTreeHelper(int[] postorder, HashMap<Integer, Integer> map, int postStart, int inorderStart, int inorderEnd) {
+        if (postStart > postorder.length - 1 || inorderStart > inorderEnd)
             return null;
 
         int rootValue = postorder[postStart];
@@ -26,18 +26,18 @@ public class ConstructBinaryTreeFromInorderAndPostorderTraversal {
         int inorderRoot = map.get(rootValue);
 
         // Number of nodes in left subtree,
-        int nodesInLeftSubtree = inorderRoot - inEnd;
+        int nodesInLeftSubtree = inorderRoot - inorderEnd;
 
 
         // postStart = postStart + nodesInLeftSubtree - 1
-        // inStart = inStart
-        // inEnd = inRoot - 1
-        root.left = buildTreeHelper(postorder, map, postStart + nodesInLeftSubtree - 1, inStart, inorderRoot - 1);
+        // inorderStart = inorderStart
+        // inorderEnd = inRoot - 1
+        root.left = buildTreeHelper(postorder, map, postStart + nodesInLeftSubtree - 1, inorderStart, inorderRoot - 1);
 
         // postStart = postStart - 1
-        // inStart = inRoot + 1
-        // inEnd = inEnd
-        root.right = buildTreeHelper(postorder, map, postStart - 1, inorderRoot + 1, inEnd);
+        // inorderStart = inRoot + 1
+        // inorderEnd = inorderEnd
+        root.right = buildTreeHelper(postorder, map, postStart - 1, inorderRoot + 1, inorderEnd);
 
         return root;
     }
