@@ -5,6 +5,9 @@ public class SearchInRotatedSortedArray {
         int n = nums.length;
 
         int start = 0, end = n - 1, index = -1;
+        // Find the index of the min element in the rotated sorted array
+        // The index of the min element is the number of times the array has been rotated
+        // By finding the min element index we can determine the search space to find the target element
         int minIndex = findMinIndex(nums);
         int prevIndex = minIndex > 0 ? minIndex - 1 : minIndex;
 

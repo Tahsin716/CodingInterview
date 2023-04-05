@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public class TimeBaseKeyValueStore {
+public class TimeBasedKeyValueStore {
     class TimeMap {
         HashMap<String, List<Node>> map;
 
@@ -21,6 +21,8 @@ public class TimeBaseKeyValueStore {
         public String get(String key, int timestamp) {
             if (!map.containsKey(key)) return "";
 
+            // Perform binary search to get the floor element (the greatest element which is smaller than target)
+            // for the given key and timestamp
             return binarySearchNode(key, timestamp);
         }
 
