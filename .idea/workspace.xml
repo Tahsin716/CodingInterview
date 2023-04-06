@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="Fraz tree medium list solved">
-      <change afterPath="$PROJECT_DIR$/src/com/binarysearch/count_negative_numbers_in_a_sorted_matrix/CountNegativeNumberInSortedMatrix_BruteForce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarysearch/count_negative_numbers_in_a_sorted_matrix/CountNegativeNumbersInSortedMatrix_BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarysearch/find_first_and_last_position_of_element_in_sorted_array/FindFirstAndLastPositionOfElementInSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarysearch/find_peak_element/FindPeakElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarysearch/square_root_x/SquareRootX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/maths/pow_x_n/Pow_X_N.java" afterDir="false" />
+    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="Fraz binary search medium list solved">
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/bfs_for_shortest_path/snakes_and_ladders/SnakesAndLadders.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/binarysearch/search_in_rotated_sorted_array/SearchInRotatedSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/binarysearch/search_in_rotated_sorted_array/SearchInRotatedSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/binarysearch/time_based_key_value_store/TimeBaseKeyValueStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/binarysearch/time_based_key_value_store/TimeBasedKeyValueStore.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -256,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680547916037</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Fraz binary search medium list solved">
+      <created>1680690677731</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1680690677731</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,7 +271,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="cyclic sort problems done" />
     <MESSAGE value="top k elements problems done" />
     <MESSAGE value="merge interval problems done" />
     <MESSAGE value="linked list and fast&amp;slow pointer problems done" />
@@ -296,6 +295,7 @@
     <MESSAGE value="Fraz dfs medium list solved" />
     <MESSAGE value="Fraz tree easy list solved" />
     <MESSAGE value="Fraz tree medium list solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fraz tree medium list solved" />
+    <MESSAGE value="Fraz binary search medium list solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fraz binary search medium list solved" />
   </component>
 </project>
