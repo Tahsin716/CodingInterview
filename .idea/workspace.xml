@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="Fraz binary search medium list solved">
-      <change afterPath="$PROJECT_DIR$/src/com/graphs/bfs_for_shortest_path/snakes_and_ladders/SnakesAndLadders.java" afterDir="false" />
+    <list default="true" id="e6319f34-ddfb-4fb0-a8b2-b81c2338ea49" name="Changes" comment="Fraz BFS medium list solved">
+      <change afterPath="$PROJECT_DIR$/src/com/graphs/hash_dfs/keys_and_rooms/KeysAndRooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/basic_linkedlist/convert_binary_number_in_a_linkedlist_to_integer/ConvertBinaryNumberInALinkedListToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/basic_linkedlist/delete_node_in_a_linkedlist/DeleteNodeInALinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/basic_linkedlist/design_hashmap/DesignHashmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/basic_linkedlist/design_hashset/DesignHashset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/basic_linkedlist/intersection_of_two_linkedlist/IntersectionOfTwoLinkedList_WithLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/basic_linkedlist/intersection_of_two_linkedlist/IntersectionOfTwoLinkedList_WithoutLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/basic_linkedlist/intersection_of_two_linkedlist/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/basic_linkedlist/odd_even_linkedlist/OddEvenLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/basic_linkedlist/odd_even_linkedlist/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/basic_linkedlist/remove_duplicates_from_sorted_list/RemoveDuplicatesFromSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/basic_linkedlist/remove_linkedlist_elements/RemoveLinkedListElements_Iterative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/basic_linkedlist/remove_linkedlist_elements/RemoveLinkedListElements_Recursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/fast_and_slow_pointers/palindrome_linkedlist/PalindromeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stack_and_queue/flattenened_nested_list_iterator/FlattenedNestedListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stack_and_queue/remove_all_adjacent_duplicates/RemoveAllAdjacentDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stack_and_queue/remove_all_adjacent_duplicates_ii/RemoveAllAdjacentDuplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -256,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680690677731</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Fraz BFS medium list solved">
+      <created>1680805139073</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1680805139073</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,7 +294,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="top k elements problems done" />
     <MESSAGE value="merge interval problems done" />
     <MESSAGE value="linked list and fast&amp;slow pointer problems done" />
     <MESSAGE value="binary tree problems ongoing" />
@@ -296,6 +318,7 @@
     <MESSAGE value="Fraz tree easy list solved" />
     <MESSAGE value="Fraz tree medium list solved" />
     <MESSAGE value="Fraz binary search medium list solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fraz binary search medium list solved" />
+    <MESSAGE value="Fraz BFS medium list solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fraz BFS medium list solved" />
   </component>
 </project>
