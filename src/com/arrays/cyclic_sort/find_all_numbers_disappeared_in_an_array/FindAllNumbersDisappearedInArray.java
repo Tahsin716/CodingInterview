@@ -11,13 +11,9 @@ public class FindAllNumbersDisappearedInArray {
         // Similar to First Missing Positive question
         // Invert the nums[index] as negative to mark that number index exists
         for (int i = 0; i < n; i++) {
-            int index = Math.abs(nums[i]);
+            int index = Math.abs(nums[i]) - 1;
 
-            if (index <= n) {
-                index--;
-
-                if (nums[index] > 0) nums[index] = -nums[index];
-            }
+            if (nums[index] > 0) nums[index] = -nums[index];
         }
 
         for (int i = 0; i < n; i++) {
