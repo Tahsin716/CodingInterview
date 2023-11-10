@@ -8,6 +8,8 @@ public class SubarraySumsDivisibleByK_HashTable {
         int sum = 0; // sum of elements in a subarray
         HashMap<Integer, Integer> map = new HashMap<>(); // to store sum % k and its frequency
 
+        // sum from the beginning of the array to the current index is divisible by k
+        // sum(0...i) % k = 0
         map.put(sum, 1); // initialize the map with 0 mod k
 
         for (int i = 0; i < nums.length; i++) {
