@@ -10,7 +10,7 @@ public class SubArraySumEqualsK_HashTable {
         int sum = 0, count = 0;
 
         // Add a new key-value pair to the map where key is 0 and value is 1.
-        //
+        // sum from the beginning to the current index is equal k, sum(0....i) = k
         map.put(sum, 1);
 
         // Iterate through the nums array using a for loop.
