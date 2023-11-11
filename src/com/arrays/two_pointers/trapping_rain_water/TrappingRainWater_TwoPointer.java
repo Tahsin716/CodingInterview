@@ -14,6 +14,12 @@ public class TrappingRainWater_TwoPointer {
             // We are taking the min between height[left] and height[right]
             // It is guaranteed there is a building greater than or equal to height[left] (maxLeft)
             // so we can ignore height[right], and the formula stays the same
+            //
+            // From the DP solution:
+            // height:   [0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]
+            // maxLeft:  [0, 0, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3]
+            // maxRight: [3, 3, 3, 3, 3, 3, 3, 2, 2, 2, 1, 0]
+            // min(L,R): [0, 0, 1, 1, 2, 2, 2, 2, 2, 2, 1, 0]
             if (height[left] < height[right]) {
                 // We are taking the max of leftHeight
                 maxLeft = Math.max(maxLeft, height[left]);
