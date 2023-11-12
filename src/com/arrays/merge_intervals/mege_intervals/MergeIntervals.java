@@ -12,7 +12,7 @@ public class MergeIntervals {
         LinkedList<int[]> result = new LinkedList<>();
 
         for (int[] currentInterval : intervals) {
-            // If there is interval in result, i.e. current interval is first interval
+            // If there is no interval in result, i.e. current interval is first interval
             // or if the end interval of prev interval array < current interval's start interval
             // then there is no overlapping so add the current interval to the result list
             if (result.isEmpty() || result.getLast()[1] < currentInterval[0]) {
