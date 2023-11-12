@@ -26,6 +26,7 @@ public class NonOverlappingIntervals {
 
         // The total number of overlapping interval that needs to be removed is equal to
         // length of intervals subtracted by total number of non-overlapping intervals
+        // overLappingCount + nonOverlappingCount = intervals.length
         return intervals.length - nonOverlappingCount;
     }
 }
