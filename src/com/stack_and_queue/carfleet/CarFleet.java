@@ -19,11 +19,13 @@ class CarFleet {
         Arrays.sort(combined, Comparator.comparingInt(current -> current[0]));
         Stack<Double> stack = new Stack<>();
 
+        // Iterating from the position closest to the target 
         for (int i = length - 1; i >= 0; i--) {
             // Time = distance / speed
             double currentTime = (double)(target - combined[i][0]) / combined[i][1];
 
-            // Car will reach destination later than the car before it, so a new fleet is created.
+            // Either no car is in front of the current car i.e. first car closest to target or
+            // car will reach its destination later than the car before it, so a new fleet is created.
             if (stack.isEmpty() || currentTime > stack.peek()) {
                 stack.push(currentTime);
             }
