@@ -11,6 +11,7 @@ public class KokoEatingBananas {
 
         // Search space is from 1...max(piles)
         while (start <= end) {
+            // mid = bananas-per-hour eating speed of k
             mid = start + (end - start) / 2;
 
             if (isValid(piles, h, mid)) {
