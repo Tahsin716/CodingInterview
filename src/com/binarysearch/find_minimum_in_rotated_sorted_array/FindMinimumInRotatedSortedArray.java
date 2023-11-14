@@ -20,7 +20,7 @@ public class FindMinimumInRotatedSortedArray {
             next = (mid + 1) % n;
 
             // nums[mid] is less than both nums[next] and nums[prev], so nums[mid] is the
-            // min element
+            // min element, basically the first element of the sorted array
             if (nums[mid] < nums[prev] && nums[mid] < nums[next]) return nums[mid];
 
             // since nums[end] is less than nums[mid]
