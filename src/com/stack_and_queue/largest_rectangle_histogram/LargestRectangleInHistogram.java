@@ -9,8 +9,9 @@ public class LargestRectangleInHistogram {
         int[] left = new int[n];
         int[] right = new int[n];
 
+        // Calculate the left boundaries for each bar in the histogram
         for (int i = 0; i < n; i++) {
-            // Monotonic stack to find first index of element smaller than current element, in left side.
+            // Monotonic stack: Find the first index of an element smaller than the current element on the left side
             while (!stack.isEmpty() && heights[stack.peek()] >= heights[i]) stack.pop();
 
             // Index before the smaller element
@@ -19,13 +20,14 @@ public class LargestRectangleInHistogram {
             stack.push(i);
         }
 
-        stack.clear();
+        stack.clear(); // Clear the stack for reuse
 
+        // Calculate the right boundaries for each bar in the histogram
         for (int i = n - 1; i >= 0; i--) {
-            // Monotonic stack to find first index of element smaller than current element, in right side.
+            // Monotonic stack: Find the first index of an element smaller than the current element on the right side
             while (!stack.isEmpty() && heights[stack.peek()] >= heights[i]) stack.pop();
 
-            // Index before the smaller element.
+            // Index before the smaller element
             right[i] = (!stack.isEmpty()) ? stack.peek() - 1 : n - 1;
 
             stack.push(i);
@@ -33,10 +35,11 @@ public class LargestRectangleInHistogram {
 
         int maxArea = -1;
 
-        // For each bar in histogram, multiply its height the rightmost and leftmost bar
-        // before the smaller element in each side
+        // For each bar in the histogram, calculate the area by multiplying its height with the distance
+        // between the rightmost and leftmost bars before the smaller element on each side
         for (int i = 0; i < n; i++) maxArea = Math.max(maxArea, heights[i] * (right[i] - left[i] + 1));
 
         return maxArea;
     }
 }
+
