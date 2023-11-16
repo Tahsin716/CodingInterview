@@ -9,7 +9,7 @@ public class AllNodesDistanceKInBinaryTree {
         // Initialize variables
         List<Integer> result = new ArrayList<>();
         Map<TreeNode, TreeNode> map = new HashMap<>();
-        Set<TreeNode> set = new HashSet<>();
+        Set<TreeNode> visited = new HashSet<>();
 
         // If the root is null, return the empty list
         if (root == null) return result;
@@ -18,7 +18,7 @@ public class AllNodesDistanceKInBinaryTree {
         mapNodeToParent(root, map);
 
         // Traverse the tree from the target node and collect nodes at a distance k
-        dfs(target, map, set, result, k);
+        dfs(target, map, visited, result, k);
 
         return result;
     }
@@ -46,12 +46,12 @@ public class AllNodesDistanceKInBinaryTree {
     }
 
     // This method traverses the tree from the target node and collects nodes at a distance k
-    private void dfs(TreeNode node, Map<TreeNode, TreeNode> map, Set<TreeNode> set, List<Integer> result, int k) {
+    private void dfs(TreeNode node, Map<TreeNode, TreeNode> map, Set<TreeNode> visited, List<Integer> result, int k) {
         // If the node is null or the distance is less than 0, return
         if (node == null || k < 0) return;
 
         // Add the node to the set
-        set.add(node);
+        visited.add(node);
 
         // If the distance is 0, add the node's value to the result and return
         if (k == 0) {
@@ -64,9 +64,9 @@ public class AllNodesDistanceKInBinaryTree {
         TreeNode leftNode = node.left;
         TreeNode rightNode = node.right;
 
-        if (parentNode != null && !set.contains(parentNode)) dfs(parentNode, map, set, result, k - 1);
-        if (leftNode != null && !set.contains(leftNode)) dfs(leftNode, map, set, result, k - 1);
-        if (rightNode != null && !set.contains(rightNode)) dfs(rightNode, map, set, result, k - 1);
+        if (parentNode != null && !visited.contains(parentNode)) dfs(parentNode, map, visited, result, k - 1);
+        if (leftNode != null && !visited.contains(leftNode)) dfs(leftNode, map, visited, result, k - 1);
+        if (rightNode != null && !visited.contains(rightNode)) dfs(rightNode, map, visited, result, k - 1);
     }
 }
 
