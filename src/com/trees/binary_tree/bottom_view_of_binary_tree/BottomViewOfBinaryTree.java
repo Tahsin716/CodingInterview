@@ -3,7 +3,7 @@ package com.trees.binary_tree.bottom_view_of_binary_tree;
 import java.util.*;
 
 public class BottomViewOfBinaryTree {
-    public static ArrayList<Integer> getTopView(BinaryTreeNode root) {
+    public static ArrayList<Integer> getBottomView(BinaryTreeNode root) {
         if (root == null) return new ArrayList<>();
 
         Queue<Pair> queue = new LinkedList<>();
